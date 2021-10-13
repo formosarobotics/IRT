@@ -12,8 +12,8 @@
 
 #### Files:
 <ul>
-<li>IRT2.pdf: slides for fundamental IRT</li>
-<li>Rasch1.R: a minimalist R program modified for Rasch model</li>
+<li>IRT2.pdf: slides for IRT, with detailed descriptions</li>
+<li>Rasch1.R: a minimalist R program for Rasch model</li>
 <li>ML1.R: a minimalist R program for IRT with very fast convergence based on Newton-Raphson iteration
 </li>
 </ul>
