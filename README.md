@@ -1,6 +1,6 @@
 ## a new tutorial on IRT (item response theory), a famous theory of educationcal psychometrics
 written by experts from Formosa Robotics: James Wu, 
-assisted by Zhao Zuoyi
+assisted by Zuoyi Zhao (Taiwan)
 
 
 #### References:
@@ -11,9 +11,9 @@ assisted by Zhao Zuoyi
 
 
 #### Files:
-
-IRT2.pdf: slides for fundamental IRT
-
-Rasch1.R: a minimalist R program modified for Rasch model
-
-ML1.R:    a minimalist R program for IRT with very fast convergence based on Newton-Raphson iteration
+<ul>
+<li>IRT2.pdf: slides for fundamental IRT</li>
+<li>Rasch1.R: a minimalist R program modified for Rasch model</li>
+<li>ML1.R: a minimalist R program for IRT with very fast convergence based on Newton-Raphson iteration
+</li>
+</ul>
