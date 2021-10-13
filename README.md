@@ -4,11 +4,11 @@ assisted by Zuoyi Zhao (Taiwan)
 
 
 #### References:
-
-[1] F.B. Baker & S.-H. Kim, Item Response Theory: Parameter Estimation Techniques, CRC Press, 2004 .
-
-[2] F.B. Baker & S.-H. Kim, The Basics of Item Response Theory using R, Springer, 2017.
-
+<ol>
+<li>F.B. Baker & S.-H. Kim, Item Response Theory: Parameter Estimation Techniques, CRC Press, 2004.</li>
+<li>F.B. Baker & S.-H. Kim, The Basics of Item Response Theory using R, Springer, 2017.</li>
+</li>
+</ol>
 
 #### Files:
 <ul>
