@@ -1,5 +1,5 @@
 ## a new tutorial on IRT (item response theory)
-###    a famous theory of educationcal psychometrics
+###    a famous theory of educationcal measurement and psychometrics
 #### written by experts from Formosa Robotics: James Wu, assisted by Zuoyi Zhao
 
 
