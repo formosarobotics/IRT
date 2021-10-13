@@ -17,3 +17,5 @@
 <li>ML1.R: a minimalist R program for IRT with very fast convergence based on Newton-Raphson iteration
 </li>
 </ul>
+
+<img src="IRT.png" alt="IRT" style="height:260px; width:564px;"/>
