@@ -1,3 +1,5 @@
+<img src="IRT.png" alt="IRT" style="height:260px; width:564px;"/>
+
 ## a new tutorial on IRT (item response theory)
 ####    famous theory of educationcal measurement and psychometrics
 #### written by experts from Formosa Robotics: James Wu, assisted by Zuoyi Zhao
@@ -17,5 +19,3 @@
 <li>ML1.R: a minimalist R program for IRT with very fast convergence based on Newton-Raphson iteration
 </li>
 </ul>
-
-<img src="IRT.png" alt="IRT" style="height:260px; width:564px;"/>
